@@ -9,7 +9,7 @@ output: html_document
 Which command explicitly imports the `pyplot` subpackage from `matplotlib`?
 
 *** =options1
-- `import matplotlib as pyplot`
+- `import matplotlib as pyplota`
 - `import pyplot from matplotlib`
 - [`import matplotlib.pyplot as plt`]
 - `from pyplot import plt`
